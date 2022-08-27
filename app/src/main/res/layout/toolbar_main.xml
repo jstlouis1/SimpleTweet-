@@ -1,0 +1,7 @@
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="@dimen/activity_horizontal_margin"
+    android:background="@color/twitter_blue"
+    app:titleTextColor="@color/white" />

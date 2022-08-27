@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleTweet</string>
+    <string name="login_label">Log in</string>
+    <string name="intent_scheme">oauth</string>
+    <string name="intent_host">cprest</string>
+    <string name="john_clayton">John Clayton</string>
+    <string name="tweet">Tweet</string>
+    <string name="reply_to">Reply to ...</string>
+    <string name="what_s_happening">What\'s happening?</string>
+    <string name="tweetCompose">Tweet</string>
+    <string name="add_tweet">Add Tweet</string>
+    <string name="add_twee">Add Twee</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">Cancel</string>
+    <string name="close_the_fragment">Close the fragment</string>
+    <string name="delete_text">Delete text</string>
+    <string name="delete">Delete</string>
+    <string name="save_text">Save text</string>
+    <string name="save_draft">Save draft?</string>
+    <string name="save">Save</string>
+    <string name="reply">Reply</string>
+    <string name="tweet_btn">Tweet</string>
+
+</resources>
